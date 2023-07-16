@@ -46,24 +46,25 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
-  - icon: envelope
-    icon_pack: fas
-    link: '/#contact'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/janondrus
-    label: Follow me on Twitter
-    display:
-      header: true
-  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
-    icon_pack: fas
+
+  - icon: google-scholar # Alternatively, use `google-scholar` icon from `ai` icon pack
+    icon_pack: ai
     link: http://scholar.google.com/citations?user=nlFH5o4AAAAJ&hl=en
   - icon: orcid
     icon_pack: ai
     link: https://orcid.org/0000-0002-3825-8969
+  - icon: scopus
+    icon_pack: ai
+    link: https://www.scopus.com/authid/detail.uri?authorId=14054651900
+  - icon: researchgate
+    icon_pack: ai
+    link: https://www.researchgate.net/profile/Jan-Ondrus
   - icon: linkedin
     icon_pack: fab
     link: https://linkedin.com/in/ondrus
+  - icon: envelope
+    icon_pack: fas
+    link: 'mailto:ondrus@essec.edu'
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
