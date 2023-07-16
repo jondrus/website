@@ -57,7 +57,10 @@ social:
       header: true
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: http://scholar.google.com/citations?user=nlFH5o4AAAAJ&hl=en
+  - icon: orcid
+    icon_pack: ai
+    link: https://orcid.org/0000-0002-3825-8969
   - icon: linkedin
     icon_pack: fab
     link: https://linkedin.com/in/ondrus
