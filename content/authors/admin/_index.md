@@ -14,7 +14,8 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Associate Professor of Information Systems // Chair of Digital Disruption
+role: Associate Professor of Information Systems
+Chair of Digital Disruption
 
 # Organizations/Affiliations to show in About widget
 organizations:
