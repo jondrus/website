@@ -15,7 +15,6 @@ superuser: true
 
 # Role/position/tagline
 role: Associate Professor of Information Systems
-Chair of Digital Disruption
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -80,7 +79,7 @@ Jan Ondrus is Associate Professor of Information Systems and currently heading t
 
 His research examines the strategic role of information technology in the development of digital ecosystems. He is particularly interested in the disruptive and transformative aspect of digital technology for business model innovation and social impact. Also, he has been specifically studying the emergence of mobile payment platforms for more than 20 years. His research has been published in top academic journals, presented at major conferences, and actively used in his teaching in the GMBA, the EMBA, and executive education programs at ESSEC. He has been serving as an Associate Editor for academic journals such as the Information Systems Journal (2013-2018) and Electronic Commerce Research and Applications (2015-2020). 
 
-Over the years, Jan has been closely working with industry partners and government agencies. He was a director for the ESSEC Chair Media & Digital (2009-2016) and the head of the Chair of Networked Business Models (2015-2018). He has provided executive training for Air France/KLM, Auchan, BPCE, Danone, Dentsu, KPMG, Orange, Société Générale, Thales, and Takeda, among other companies. He has been a frequent speaker at major industry events and regularly provides comments for the media (CNBC, Reuters, Nikkei, SCMP, CNA, Wired, Le Monde, The Straits Times, The Business Times, ...).
+Over the years, Jan has been closely working with industry partners and government agencies. He was a director for the ESSEC Chair Media & Digital (2009-2016) and the head of the Chair of Networked Business Models (2015-2018). He has provided executive training for Air France/KLM, Auchan, BPCE, Danone, Dentsu, KPMG, Orange, Société Générale, Thales, and Takeda, among other companies. He has been a frequent speaker at major industry events and regularly provides comments for the media (CNBC, Reuters, Nikkei, SCMP, China Daily, CNA, Wired, Le Monde, The Straits Times, The Business Times, ...).
 
 In recent years, Jan held several administrative roles such as Associate Dean of Faculty, ESSEC Asia Pacific, Associate Academic Director of the Global MBA, and Director of Research of the ESSEC Center of Excellence in Digital Business.
 {style="text-align: justify;"}
