@@ -56,6 +56,9 @@ social:
   - icon: scopus
     icon_pack: ai
     link: https://www.scopus.com/authid/detail.uri?authorId=14054651900
+  - icon: clarivate
+    icon_pack: ai
+    link: https://www.webofscience.com/wos/author/record/639433
   - icon: researchgate
     icon_pack: ai
     link: https://www.researchgate.net/profile/Jan-Ondrus
