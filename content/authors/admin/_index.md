@@ -14,28 +14,29 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Associate Professor of Information Systems
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: ESSEC Business School
+    url: https://www.essec.edu/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Digital Innovation
+  - Digital Platform & Ecosystems
+  - Digital Business Model
+  - FinTech | Mobile Payments
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
+    - course: PhD in Information Systems
+      institution: HEC Lausanne, University of Lausanne
+      year: 2007
     - course: MEng in Artificial Intelligence
       institution: Massachusetts Institute of Technology
       year: 2009
